@@ -31,4 +31,4 @@ Beautiful Soup is a pure Python library for extracting structured data from a we
 
 - Another powerful and useful feature of beautiful soup is its intelligence to convert the documents being fetched to Unicode and outgoing documents to UTF-8. As a developer, you do not have to take care of that unless the document intrinsic doesn't specify an encoding or Beautiful Soup is unable to detect one.
 
-- It is also considered to be faster when compared to other general parsing or scraping techniques.
+- It is also considered to be faster when compared to other general parsing or scraping techniques. 
